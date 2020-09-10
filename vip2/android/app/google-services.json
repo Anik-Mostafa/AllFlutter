@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995041251648",
+    "firebase_url": "https://vip2-a177e.firebaseio.com",
+    "project_id": "vip2-a177e",
+    "storage_bucket": "vip2-a177e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995041251648:android:741d02cc308280fa8f6aa5",
+        "android_client_info": {
+          "package_name": "com.iphone.vip2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995041251648-qeihlr930s3migu3cndrkgg6bj3ooco2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOx30uZl5IkL8PIExXfvSsHnkJNmUmTQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995041251648-qeihlr930s3migu3cndrkgg6bj3ooco2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528471378310",
+    "firebase_url": "https://widgetsdatabase-a9f62.firebaseio.com",
+    "project_id": "widgetsdatabase-a9f62",
+    "storage_bucket": "widgetsdatabase-a9f62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528471378310:android:7b096c3a693c009b2c8407",
+        "android_client_info": {
+          "package_name": "com.iphone.widgets_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528471378310-mj6ldulvtorahlnrdvfe4ct9um2pk15p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MNstPU4clBY_JwWkI4GUoDXu1ddSJ74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528471378310-mj6ldulvtorahlnrdvfe4ct9um2pk15p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

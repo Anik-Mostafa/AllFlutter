@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272700871328",
+    "firebase_url": "https://badminton-ee59c.firebaseio.com",
+    "project_id": "badminton-ee59c",
+    "storage_bucket": "badminton-ee59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272700871328:android:68f1adae5f2e1cb3baafc5",
+        "android_client_info": {
+          "package_name": "com.iphone.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272700871328-i1k3b3ipfg7qi5pk07fins0lsgt3nusm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-gqsT93W2s_cfjATc_B4sTYv3SiZKQdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272700871328-i1k3b3ipfg7qi5pk07fins0lsgt3nusm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

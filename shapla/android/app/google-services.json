@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43865911805",
+    "firebase_url": "https://shapla-d3c4e.firebaseio.com",
+    "project_id": "shapla-d3c4e",
+    "storage_bucket": "shapla-d3c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43865911805:android:da3db640d0bd4ac8b22994",
+        "android_client_info": {
+          "package_name": "com.iphone.shapla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43865911805-thu87mkdkd3j5107qqvnq9gt386iv5m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7cKkJEBMZyeBJnYGn59Q6UL4o5iy2TuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43865911805-thu87mkdkd3j5107qqvnq9gt386iv5m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

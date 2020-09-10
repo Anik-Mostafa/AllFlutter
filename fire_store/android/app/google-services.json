@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90046055453",
+    "firebase_url": "https://test17-76d6f.firebaseio.com",
+    "project_id": "test17-76d6f",
+    "storage_bucket": "test17-76d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90046055453:android:894a1ec91633a1cc65f2f4",
+        "android_client_info": {
+          "package_name": "com.iphone.fire_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90046055453-2kl8gpu6je0fhca3eeb6eofb701e9cfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdIbgN59eCAcaM0viF8Z_1ZmTTLQ-h-zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90046055453-2kl8gpu6je0fhca3eeb6eofb701e9cfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

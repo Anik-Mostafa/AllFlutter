@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "973614595915",
+    "firebase_url": "https://e-com-661e7.firebaseio.com",
+    "project_id": "e-com-661e7",
+    "storage_bucket": "e-com-661e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973614595915:android:25394aceb12dfd769672ce",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973614595915-dvejo4frs9q90jcns1vpep88pg2kht7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGA8Z50i3i3GRVq3nop0kg4z83MT2Pv4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973614595915-dvejo4frs9q90jcns1vpep88pg2kht7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973614595915:android:cf20859dee70822f9672ce",
+        "android_client_info": {
+          "package_name": "com.iphone.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973614595915-dvejo4frs9q90jcns1vpep88pg2kht7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGA8Z50i3i3GRVq3nop0kg4z83MT2Pv4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973614595915-dvejo4frs9q90jcns1vpep88pg2kht7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

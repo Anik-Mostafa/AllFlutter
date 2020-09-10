@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136118351947",
+    "firebase_url": "https://universitydataapp.firebaseio.com",
+    "project_id": "universitydataapp",
+    "storage_bucket": "universitydataapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136118351947:android:2f650008e69a83110935ce",
+        "android_client_info": {
+          "package_name": "com.iphone.university_data_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136118351947-05nfds7v0utqrsl97ar6fa5pp673sq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7pOgu3JTw39joHq2rJG_ufiuFlKphYe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136118351947-05nfds7v0utqrsl97ar6fa5pp673sq2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
